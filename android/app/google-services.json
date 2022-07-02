@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095096805606",
+    "project_id": "result-app---eee",
+    "storage_bucket": "result-app---eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095096805606:android:3cbf1e528f83ac9196b327",
+        "android_client_info": {
+          "package_name": "arabin.resulteee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095096805606-n4if4q8kjk570p2coer49n979p5144hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1f98Cw6UTjFazxUZDG0FIc1QyNSnQFhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095096805606-n4if4q8kjk570p2coer49n979p5144hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
